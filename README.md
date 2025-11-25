@@ -115,12 +115,18 @@ I'm always interested in connecting with fellow developers, potential collaborat
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krisyupher&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=krisyupher&layout=compact&theme=github_dark" alt="Top languages"/>
+  <a href="https://github.com/krisyupher" target="_blank">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krisyupher&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+  </a>
+  <a href="https://github.com/krisyupher" target="_blank">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=krisyupher&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krisyupher&theme=dark" alt="GitHub Streak"/>
+  <a href="https://github.com/krisyupher" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=krisyupher&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </a>
 </div>
 
 ---
