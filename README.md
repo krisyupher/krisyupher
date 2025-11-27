@@ -107,6 +107,7 @@ I'm always interested in connecting with fellow developers, potential collaborat
 - **<a href="https://krisyupher.github.io/countriesflag/" target="_blank">🗺 Where in the world?</a>** - REST countries data visualization
 - **<a href="https://krisyupher.github.io/tres-en-linea/" target="_blank">🕹 Tic-Tac-Toe</a>** - Interactive game
 - **<a href="https://krisyupher.github.io/TitaMedia-Challenge/" target="_blank">💅 TitaMedia Challenge</a>** - Design implementation challenge
+- **<a href="https://krisyupher.github.io/404pagesGallery/" target="_blank"> 🩼 404 pages Gallery</a>** - 404 error HTTP
 - **<a href="https://krisyupher.github.io/Pendulo-de-Galileo/" target="_blank">⚖ Péndulo de Galileo</a>** - Physics simulation
 - **<a href="https://krisyupher.github.io/Reloj-Animacion-Css/" target="_blank">⏲ Reloj Cucú</a>** - CSS animation showcase
 
