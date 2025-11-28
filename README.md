@@ -100,7 +100,7 @@ I'm always interested in connecting with fellow developers, potential collaborat
 
 #### Fintech & Business Applications
 - **<a href="https://www.troop.com.co/#/" target="_blank">💵 troop.com.co</a>** - Financial services platform
-- **<a href="https://TuAp.com" target="_blank">🍱 TuAp.com</a>** - Food & service delivery platform
+- **<s><a href="" target="_blank">🍱 TuAp.com</a></s>** - Food & service delivery platform
 
 #### Interactive Projects & Challenges
 - **<a href="https://krisyupher.github.io/Movie-Searcher-TMDB/" target="_blank">🎥 Movie Searcher TMDB</a>** - React app with TMDB API integration
