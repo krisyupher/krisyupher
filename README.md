@@ -111,7 +111,7 @@ I'm always interested in connecting with fellow developers, potential collaborat
 - **<a href="https://krisyupher.github.io/Pendulo-de-Galileo/" target="_blank">⚖ Péndulo de Galileo</a>** - Physics simulation
 - **<a href="https://krisyupher.github.io/Reloj-Animacion-Css/" target="_blank">⏲ Reloj Cucú</a>** - CSS animation showcase
   
-#### Interactive Projects & Challenges
+#### Labs
 - **<a href="https://claude.ai/public/artifacts/9945ceee-8cd9-400f-9fb7-48722ffad05f" target="_blank">🧑‍🏫 English Grammar Teacher</a>** - English Grammar Teacher (artifacts) on Claude 
 ---
 
