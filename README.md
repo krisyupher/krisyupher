@@ -93,7 +93,7 @@ I'm always interested in connecting with fellow developers, potential collaborat
 ### 💼 Featured Projects
 
 #### Enterprise & Government Solutions
-- **<a href="https://cortesuprema.gov.co/corte/" target="_blank">🗽 Corte Suprema de Justicia</a>** - Colombia's Supreme Court of Justice digital platform
+- **<a href="https://cortesuprema.gov.co" target="_blank">🗽 Corte Suprema de Justicia</a>** - Colombia's Supreme Court of Justice digital platform
 - **<a href="http://consultaprovidencias.cortesuprema.gov.co/busqueda" target="_blank">🔍 Supremo Buscador</a>** - High-performance legal document search engine
 - **<a href="https://ecosistemadigital.cortesuprema.gov.co/#/" target="_blank">📜 ESAV</a>** - Digital ecosystem for judicial services
 - **<a href="https://www.davivienda.com/wps/portal/personas/nuevo" target="_blank">🏦 Davivienda</a>** - Colombia's leading financial institution portal
