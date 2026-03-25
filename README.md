@@ -31,7 +31,7 @@ Full-stack developer passionate about creating impactful web applications that s
 ---
 
 ### 💼 Current Focus
-- 🔭 **Working on**: <a href="https://cortesuprema.gov.co/corte/" target="_blank">Corte Suprema de Justicia</a> - Colombia's Supreme Court of Justice
+- 🔭 **Working on**: <a href="https://cortesuprema.gov.co" target="_blank">Corte Suprema de Justicia</a> - Colombia's Supreme Court of Justice
 - 🌐 Building robust, scalable web applications for government and enterprise clients
 
 ### 🤝 Connect With Me
